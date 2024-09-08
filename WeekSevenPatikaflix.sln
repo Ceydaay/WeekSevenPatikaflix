@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeekSevenPatikaflix", "WeekSevenPatikaflix\WeekSevenPatikaflix.csproj", "{0EF3B125-9162-4481-BD2A-910FB916DB0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EF3B125-9162-4481-BD2A-910FB916DB0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF3B125-9162-4481-BD2A-910FB916DB0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF3B125-9162-4481-BD2A-910FB916DB0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF3B125-9162-4481-BD2A-910FB916DB0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5623B4D3-3332-4224-9DE1-BE3CC349C765}
+	EndGlobalSection
+EndGlobal
